@@ -13,8 +13,16 @@
             "description": "Alimentação McDonalds",
             "type": "outcome",
             "category": "Alimentação",
-            "price": 6000,
+            "price": 60,
             "createdAt": "2024-12-21T12:40:53.993Z"
+        },
+        {
+            "id": 3,
+            "description": "Curso React",
+            "type": "outcome",
+            "category": "Educação",
+            "price": 600,
+            "createdAt": "2024-12-22T15:53:53.993Z"
         }
     ]
 }
