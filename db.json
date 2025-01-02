@@ -1,28 +1,52 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2024-12-21T12:39:53.993Z"
-        },
-        {
-            "id": 2,
-            "description": "Alimentação McDonalds",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 60,
-            "createdAt": "2024-12-21T12:40:53.993Z"
-        },
-        {
-            "id": 3,
-            "description": "Curso React",
-            "type": "outcome",
-            "category": "Educação",
-            "price": 600,
-            "createdAt": "2024-12-22T15:53:53.993Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2024-12-21T12:39:53.993Z"
+    },
+    {
+      "id": 2,
+      "description": "Alimentação McDonalds",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2024-12-21T12:40:53.993Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso React",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 600,
+      "createdAt": "2024-12-22T15:53:53.993Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de App",
+      "price": 10,
+      "type": "income",
+      "createdAt": "2025-01-02T13:27:01.986Z",
+      "id": 4
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento Site",
+      "price": 2,
+      "type": "income",
+      "createdAt": "2025-01-02T13:31:50.505Z",
+      "id": 5
+    },
+    {
+      "category": "Alimentação",
+      "description": "Mc Donalds",
+      "price": 50,
+      "type": "outcome",
+      "createdAt": "2025-01-02T14:02:36.728Z",
+      "id": 6
+    }
+  ]
 }
